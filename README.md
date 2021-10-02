@@ -1,0 +1,1 @@
+This is EZ's first git project
